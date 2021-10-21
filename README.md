@@ -1,5 +1,5 @@
 # CoronaMap
-[인프런-코로나맵 개발자와 함께하는 지도서비스 만들기1](shorturl.at/oCLV5)  강의 수강
+[인프런-코로나맵 개발자와 함께하는 지도서비스 만들기1](https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4)  강의 수강
 
 2020-2 소프트웨어개발실무론 교과목에서 소프트웨어공학 기법 적용
 
